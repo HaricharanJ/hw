@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyActivity</string>
+    <string name="hint1">Enter UTA search query here</string>
+    <string name="hint2">Tag your Query</string>
+</resources>
